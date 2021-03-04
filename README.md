@@ -24,4 +24,5 @@ You can contact myself or other members who are using the reource for support on
 
 ## Change Log
 **1.0.0**
+
 Offical release of NCCPack to the public on 04/03/2021
