@@ -3,7 +3,7 @@ NCCPack is a FiveM resource made by KyleLee15 that allows players to change thei
 
 ## Installation & Usage
 1. Download the latest version of [NCCPack](https://github.com/KyleLee15/NCCPack/releases/tag/1.0.0)
-2. Unzip the NNCPack folder and add it to your server resources folder.
+2. Unzip the NCCPack folder and add it to your server resources folder.
 3. Add the following line into your server.cfg
    ```
    ensure NCCPack
