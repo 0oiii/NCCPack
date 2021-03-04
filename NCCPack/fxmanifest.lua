@@ -13,7 +13,6 @@ version '1.0.0'
 url 'https://github.com/KyleLee15/NCCPack'
 
 -- Script
-shared_script 'config.lua'
 
 client_scripts {
 	'ncc-c.lua'
