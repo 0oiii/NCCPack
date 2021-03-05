@@ -25,3 +25,11 @@ You can contact myself or other members who are using the reource for support on
 ## Change Log
 **1.0.0** -
 Offical release of NCCPack to the public on 04/03/2021
+
+## Bugs
+**Console on start up**
+- On startup there is a printing error what is going to be fixed in 1.0.1
+
+## Coming Soon!
+**Configuration Options**
+- Have the ability to toggle on and off certain fetures within the script
