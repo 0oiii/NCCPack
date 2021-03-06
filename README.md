@@ -26,18 +26,15 @@ You can contact myself or other members who are using the reource for support on
 **1.0.0** -
 Offical release of NCCPack to the public on 04/03/2021
 
+**1.0.1**
+- + Added Configuration options to the script
+- + Added automatically making the first letters of the last and last name capital. 
+- Fixed the problem when selected departments as they where case sensitive
+- Fixed global messages being sent when they where meant to be client sided
+
 ## Bugs
 To report bugs please go to the [NCC Discord](https://bit.ly/KyleLee15) and report any bugs you have!
 
-**Console on start up**
-- On startup there is a printing error what is going to be fixed in 1.0.1
-
-**Name**
-- When you change your name it currently doesnt automatically make the first letters of the firstname and lastname uppercase (Fix in 1.0.1) 
-
-**Department**
-- The department you select are case-sensitive. (Fix in 1.0.1)
 
 ## Coming Soon!
-**Configuration Options**
-- Have the ability to toggle on and off certain fetures within the script
+
