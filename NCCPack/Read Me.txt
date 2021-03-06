@@ -8,9 +8,7 @@
 
 The FiveM resource was made by KyleLee15.
 
-You may not sell or re-upload this resource anywhere.
-You may not make changes to the script without the owners consent.
-You may not attempt to decrypt the code within the lua file(s)
+You may not sell or re-upload this resource anywhere without the owners consent.
 
 You are free to use this script within any FiveM server (its just a chat script).
 
