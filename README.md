@@ -28,6 +28,7 @@ Offical release of NCCPack to the public on 04/03/2021
 
 ## Bugs
 To report bugs please go to the [NCC Discord](https://bit.ly/KyleLee15) and report any bugs you have!
+
 **Console on start up**
 - On startup there is a printing error what is going to be fixed in 1.0.1
 
