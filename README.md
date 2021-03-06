@@ -31,6 +31,12 @@ To report bugs please go to the [NCC Discord](https://bit.ly/KyleLee15) and repo
 **Console on start up**
 - On startup there is a printing error what is going to be fixed in 1.0.1
 
+**Name**
+- When you change your name it currently doesnt automatically make the first letters of the firstname and lastname uppercase (Fix in 1.0.1) 
+
+**Department**
+- The department you select are case-sensitive. (Fix in 1.0.1)
+
 ## Coming Soon!
 **Configuration Options**
 - Have the ability to toggle on and off certain fetures within the script
