@@ -26,9 +26,9 @@ You can contact myself or other members who are using the reource for support on
 **1.0.0** -
 Offical release of NCCPack to the public on 04/03/2021
 
-**1.0.1**
-- + Added Configuration options to the script
-- + Added automatically making the first letters of the last and last name capital. 
+**1.0.1** - Fixed issues and bugs discoved in the 1.0.0 release
+- Added Configuration options to the script
+- Added automatically making the first letters of the last and last name capital. 
 - Fixed the problem when selected departments as they where case sensitive
 - Fixed global messages being sent when they where meant to be client sided
 
