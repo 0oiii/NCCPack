@@ -16,6 +16,7 @@ NCCPack is a FiveM resource made by KyleLee15 that allows players to change thei
 * /me {message} | Allows members to send messages over chat **[Proximity]**
 * /mer {message} | Allows members to send messages in red over chat **[Proximity]**
 * /ooc {message} | Allows members to send an "Out of Character" (OOC) message **[Proximity]**
+* /oocr {message} | Allows members to send a red "Out of Character" (OOC) message **[Proximity]**
 * /gooc {message} | Allows members to send an "Out of Character" (OOC) message **[Global]**
 * /dw {message} | Allows members to send an Anonymous message **[Global]**
 
