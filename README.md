@@ -1,5 +1,5 @@
 # NCCPack
-NCCPack is a FiveM resource made by KyleLee15 that allows players to change their name within chat while maintaining fetures for a high quality FiveM RP chat. Please join the NCC Discord
+NCCPack is a FiveM resource made by KyleLee15 that allows players to change their name within chat while maintaining fetures for a high quality FiveM RP chat. Please join the  [NCC Discord](https://discord.gg/j4J8JgPeWw)
 
 ## Installation & Usage
 1. Download the latest version of [NCCPack](https://github.com/KyleLee15/NCCPack/releases/tag/1.0.0)
