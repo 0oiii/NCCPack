@@ -21,7 +21,7 @@ NCCPack is a FiveM resource made by KyleLee15 that allows players to change thei
 * /dw {message} | Allows members to send an Anonymous message **[Global]**
 
 ## Support
-You can contact myself or other members who are using the reource for support on my [discord](https://bit.ly/KyleLee15)
+You can contact myself or other members who are using the reource for support on my [discord](https://discord.gg/j4J8JgPeWw)
 
 ## Change Log
 **1.0.0** -
@@ -34,7 +34,7 @@ Offical release of NCCPack to the public on 04/03/2021
 - Fixed global messages being sent when they where meant to be client sided
 
 ## Bugs
-To report bugs please go to the [NCC Discord](https://bit.ly/KyleLee15) and report any bugs you have!
+To report bugs please go to the [NCC Discord](https://discord.gg/j4J8JgPeWw) and report any bugs you have!
 
 
 ## Coming Soon!
