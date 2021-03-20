@@ -42,6 +42,6 @@ To report bugs please go to the [NCC Discord](https://discord.gg/j4J8JgPeWw) and
 
 ## Coming Soon!
 * As requested by members within the [NCC Discord](https://discord.gg/j4J8JgPeWw), I will be working on a /showid script.
-* + This will bring up and image of an ID card with the users set name and other personal infomation.
+  + This will bring up and image of an ID card with the users set name and other personal infomation.
 
 If you wish to suggest anything that could be added to NCCPack please join my [Discord](https://discord.gg/j4J8JgPeWw) and utilise the suggestions channel.
