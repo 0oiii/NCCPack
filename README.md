@@ -19,6 +19,10 @@ NCCPack is a FiveM resource made by KyleLee15 that allows players to change thei
 * /oocr {message} | Allows members to send a red "Out of Character" (OOC) message **[Proximity]**
 * /gooc {message} | Allows members to send an "Out of Character" (OOC) message **[Global]**
 * /dw {message} | Allows members to send an Anonymous message **[Global]**
+* /clear | Allows members to clear their chat **(Client Sided)**
+* /clearname | Allows members to reset their active name **(Client Sided)**
+* /cleardept | Allows members to reset their active department **(Client Sided)**
+* /clearhandle | Allows members to reset their active Twotter handles **(Client Sided)**
 
 ## Support
 You can contact myself or other members who are using the reource for support on my [discord](https://discord.gg/j4J8JgPeWw)
@@ -35,6 +39,14 @@ Offical release of NCCPack to the public on 04/03/2021
 - Added automatically making the first letters of the last and last name capital. 
 - Fixed the problem when selected departments as they where case sensitive
 - Fixed global messages being sent when they where meant to be client sided
+
+**1.0.2**
+- Uploaded preview [screenshots](https://imgur.com/a/LFOKlgw) of the resource.
+- Fixed errors found within the /department command
+- Added /clear command
+- Added /clearname command
+- Added /cleardept command
+- Added /clearhandle command 
 
 ## Bugs
 To report bugs please go to the [NCC Discord](https://discord.gg/j4J8JgPeWw) and report any bugs you have!
