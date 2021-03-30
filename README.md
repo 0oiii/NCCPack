@@ -50,6 +50,7 @@ Offical release of NCCPack to the public on 04/03/2021
 
 ## Bugs
 To report bugs please go to the [NCC Discord](https://discord.gg/j4J8JgPeWw) and report any bugs you have!
+* Currently there is an issue this the chat script when the server has OneSync active (Should be fixed in 1.0.3) 
 
 
 ## Coming Soon!
