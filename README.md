@@ -1,4 +1,4 @@
-# NCCPack
+# NCCPack (UNSUPPORTED)
 NCCPack is a FiveM resource made by KyleLee15 that allows players to change their name within chat while maintaining fetures for a high quality FiveM RP chat. Please join the  [NCC Discord](https://discord.gg/j4J8JgPeWw)
 
 ## Installation & Usage
@@ -50,11 +50,10 @@ Offical release of NCCPack to the public on 04/03/2021
 
 ## Bugs
 To report bugs please go to the [NCC Discord](https://discord.gg/j4J8JgPeWw) and report any bugs you have!
-* Currently there is an issue this the chat script when the server has OneSync active (Should be fixed in 1.0.3) 
+* Currently there is an issue this the chat script when the server has OneSync active (Will not be fixed) 
 
 
 ## Coming Soon!
-* As requested by members within the [NCC Discord](https://discord.gg/j4J8JgPeWw), I will be working on a /showid script.
-  + This will bring up and image of an ID card with the users set name and other personal infomation.
+* N/A
 
 If you wish to suggest anything that could be added to NCCPack please join my [Discord](https://discord.gg/j4J8JgPeWw) and utilise the suggestions channel.
