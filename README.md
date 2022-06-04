@@ -1,5 +1,5 @@
 # NCCPack
-NCCPack is a FiveM resource made by KyleLee15 that allows players to change their name within chat while maintaining fetures for a high quality FiveM RP chat. Please join the  [NCC Discord](https://discord.gg/j4J8JgPeWw)
+NCCPack is a FiveM resource made by KyleLee15 that allows players to change their name within chat while maintaining fetures for a high quality FiveM RP chat. Please join the  [NCC Discord](https://discord.gg/hUsxsuRyH6)
 
 ## Installation & Usage
 1. Download the latest version of [NCCPack](https://github.com/KyleLee15/NCCPack/releases/tag/1.0.1)
@@ -25,7 +25,7 @@ NCCPack is a FiveM resource made by KyleLee15 that allows players to change thei
 * /clearhandle | Allows members to reset their active Twotter handles **(Client Sided)**
 
 ## Support
-You can contact myself or other members who are using the reource for support on my [discord](https://discord.gg/j4J8JgPeWw)
+You can contact myself or other members who are using the reource for support on my [discord](https://discord.gg/hUsxsuRyH6)
 
 ## Screenshots
 To view the related screenshots to NCCPack press [here](https://imgur.com/a/LFOKlgw)
@@ -49,11 +49,11 @@ Offical release of NCCPack to the public on 04/03/2021
 - Added /clearhandle command 
 
 ## Bugs
-To report bugs please go to the [NCC Discord](https://discord.gg/j4J8JgPeWw) and report any bugs you have!
+To report bugs please go to the [NCC Discord](https://discord.gg/hUsxsuRyH6) and report any bugs you have!
 * Currently there is an issue this the chat script when the server has OneSync active 
 
 
 ## Coming Soon!
 * N/A
 
-If you wish to suggest anything that could be added to NCCPack please join my [Discord](https://discord.gg/j4J8JgPeWw) and utilise the suggestions channel.
+If you wish to suggest anything that could be added to NCCPack please join my [Discord](https://discord.gg/hUsxsuRyH6) and utilise the suggestions channel.
